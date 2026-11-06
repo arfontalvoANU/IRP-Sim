@@ -221,3 +221,4 @@ __marimo__/
 
 output/
 .openmeteo_cache.sqlite
+.vscode/
